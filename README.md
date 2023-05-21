@@ -13,6 +13,7 @@
 
 ### Frameworks
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Google](https://img.shields.io/badge/google%20test-4285F4?style=for-the-badge&logo=google&logoColor=white)
 **PlatformIO**
 
 ### Hardware
