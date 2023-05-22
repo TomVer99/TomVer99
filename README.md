@@ -35,3 +35,6 @@
 
 ### Other
 ![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?&style=for-the-badge&logo=KiCad&logoColor=white)
+
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=TomVer99&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
