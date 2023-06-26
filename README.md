@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Being+Myself;Learning+Embedded;Learning+to+Learn;Developing+Code)](https://git.io/typing-svg)
+
 # About me
 - Embedded Systems / Low Level software engineering student
 - Currently learning C, C++, CMake, LaTeX, STM32 embedded controllers
