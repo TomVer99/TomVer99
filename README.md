@@ -27,3 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?&style=for-the-badge&logo=KiCad&logoColor=white)
+
+## GitHub Trophies
+
+![trophies](https://github-profile-trophy.vercel.app/?username=TomVer99&theme=tokyonight&no-frame=true&column=8)
