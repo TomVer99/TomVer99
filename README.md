@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Being+Myself;Learning+Embedded;Learning+to+Learn;Developing+Code)](https://git.io/typing-svg)
 
 # About me
+
+- Can speak: <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/nl.svg"> Dutch, <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg"> / <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/gb.svg"> English, and a **tiny** bit of: <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/jp.svg"> Japanese.
 - Embedded Systems / Low Level software engineering student
-- Currently learning C, C++, CMake, LaTeX, STM32 embedded controllers
+- Currently focussed on learning C, C++, CMake, STM32 embedded controllers
 - Interested in aviation and general low level / embedded software
 
 ## GitHub Stats
