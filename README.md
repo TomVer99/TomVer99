@@ -2,7 +2,7 @@
 
 # About me
 
-- Can speak: <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/nl.svg"> Dutch, <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg"> / <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/gb.svg"> English, and a **tiny** bit of: <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/jp.svg"> Japanese.
+- Can speak: <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/nl.svg"> Dutch, <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg"> / <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/gb.svg"> English
 - Embedded Systems / Low Level software engineering student
 - Currently focussed on learning C, C++, CMake, STM32 embedded controllers
 - Interested in aviation and general low level / embedded software
