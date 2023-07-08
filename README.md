@@ -10,6 +10,8 @@
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=TomVer99&theme=tokyo-night&area=true&hide_border=true" /><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomVer99&layout=donut-vertical&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://visitcount.itsvg.in/api?id=TomVer99&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ## Languages, Tools and Other
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
