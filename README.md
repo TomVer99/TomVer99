@@ -8,7 +8,7 @@
 - Interested in aviation and general low level / embedded software
 
 ## GitHub Stats
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=TomVer99&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=TomVer99&theme=tokyonight&hide_border=true" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=TomVer99&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=TomVer99&theme=tokyonight&hide_border=true" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=TomVer99&theme=tokyo-night&area=true&hide_border=true" /><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomVer99&layout=donut-vertical&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
