@@ -6,10 +6,10 @@
 - Embedded Systems / Low Level software engineering student
 - Currently focussed on getting my masters degree
 
-## GitHub Stats
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=TomVer99&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=TomVer99&theme=tokyonight&hide_border=true" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=TomVer99&theme=tokyo-night&area=true&hide_border=true" /><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomVer99&layout=donut-vertical&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--## GitHub Stats-->
+<!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=TomVer99&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=TomVer99&theme=tokyonight&hide_border=true" /> -->
+<!-- <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=TomVer99&theme=tokyo-night&area=true&hide_border=true" /><br/> -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomVer99&layout=donut-vertical&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Languages, Tools and Other
 
@@ -33,6 +33,6 @@
 ![KiCad](https://img.shields.io/badge/KiCad-%23314CB0.svg?&style=for-the-badge&logo=KiCad&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## GitHub Trophies
+<!--## GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=TomVer99&theme=tokyonight&no-frame=true&column=8)
+![trophies](https://github-profile-trophy.vercel.app/?username=TomVer99&theme=tokyonight&no-frame=true&column=8)-->
