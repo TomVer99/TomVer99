@@ -3,8 +3,7 @@
 # About me
 
 - Can speak: <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/nl.svg"> Dutch, <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg"> / <img width="20" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/gb.svg"> English
-- Embedded Systems / Low Level software engineering student
-- Currently focussed on getting my masters degree
+- Embedded Systems / Low Level software engineering
 
 <!--## GitHub Stats-->
 <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=TomVer99&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=TomVer99&theme=tokyonight&hide_border=true" /> -->
